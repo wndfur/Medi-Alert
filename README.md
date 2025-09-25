@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="d003f3a0-ba8a-4f4c-ba83-f9ad59f3d1f6" src="https://github.com/user-attachments/assets/766a2531-6877-4942-a912-9015f8fa5233" />
 # MediAlert
 
 **개발기간: 2025.09 ~ 2024.10**
